@@ -1,4 +1,4 @@
-# Python_send_email
+## Send email
 
 Project made in python to send emails
 
